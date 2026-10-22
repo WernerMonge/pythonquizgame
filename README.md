@@ -21,8 +21,12 @@ This project is a little quiz game made with Python. The only objective of the p
 <b>This validates all the answers provided by the user too.</b> 
 <img src="https://i.imgur.com/6qXfOfL.png" height="80%" width="80%" alt="Validation 2"/>
 
+<h3>Program demostration</h3>
+<b>Once the game has started, a yes or no question wil pop up. If the user selected yes, the game will continue until the last question has been answered.</b> 
+<img src="https://i.imgur.com/lJ0l7iU.png" height="80%" width="80%" alt="Running 1"/>
 
-
+<b>If the answer was no, the game will not start and the program will stop.</b> 
+<img src="https://i.imgur.com/Rwpx4iq.png" height="80%" width="80%" alt="Running 2"/>
 <!--
  ```diff
 - text in red
