@@ -87,5 +87,5 @@ if play == "yes":
     print(f"Game over! You scored a total of {points} points.")
 #---------------------------------------------------------------------------------#
 else:
-    print("Too bad, are you afraid of losing your files? Bye, bye.")
+    print("Too bad you do not want to play. Bye, bye.")
     quit()
